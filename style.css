@@ -1,0 +1,21 @@
+.hidden {
+    display: none;
+}
+
+html{
+    height: 100%;
+}
+
+body{
+align-items: center;
+display: flex;
+justify-content: center;
+flex-direction: column;
+text-align: center;
+min-height: 100%;
+background: linear-gradient();
+}
+
+#quiz_start{
+z-index: 1;
+}
